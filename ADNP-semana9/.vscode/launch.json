@@ -9,7 +9,7 @@
       "name": "gcc - build and debbug the active file",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}/main",
+      "program": "/home/jesse/UTFPR/ED2/ADNP-semana9/main",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",

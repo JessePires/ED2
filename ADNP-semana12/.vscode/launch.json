@@ -9,7 +9,7 @@
       "name": "gcc - build and debbug the active file",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}/main",
+      "program": "${workspaceRoot}/main",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",

@@ -6,7 +6,7 @@
     {
       "type": "shell",
       "label": "gcc build active file",
-      "command": "make"
+      "command": "make",
     }
   ]
 }
